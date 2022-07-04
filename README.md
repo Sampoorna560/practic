@@ -1,1 +1,2 @@
-# practic
+# microservices-config
+Central repository configurations 
